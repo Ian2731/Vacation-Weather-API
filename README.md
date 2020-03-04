@@ -4,3 +4,5 @@ First I build a series of scatter plots to showcase the following relationships:
 
   -Temperature (F) vs. Latitude
   -Humidity (%) vs. Latitude
+  -Cloudiness (%) vs. Latitude
+  -
