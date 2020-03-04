@@ -7,4 +7,4 @@ First I build a series of scatter plots to showcase the following relationships:
   -Cloudiness (%) vs. Latitude
   -Wind Speed (mph) vs. Latitude
 
-Second I used Jupyter gmaps and the Google Places API 
+Second I used Jupyter gmaps and the Google Places API to create a heat map that displays the humidity for every city
